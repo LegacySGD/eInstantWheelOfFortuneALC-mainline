@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr_CA">
+<phrase key="softwareId" value="ID du logiciel"/>
+<phrase key="transactionId" value="ID de transaction"/>
+<phrase key="totalWins" value="Gains totaux"/>
+<phrase key="totalWager" value="Mise totale"/>
+<phrase key="category" value="Catégorie"/>
+<phrase key="person" value="Personne"/>
+<phrase key="place" value="Lieu"/>
+<phrase key="thing" value="Chose"/>
+<phrase key="playWords" value="Mots"/>
+<phrase key="youMatched" value="Identiques"/>
+<phrase key="value" value="Lot"/>
+<phrase key="playLetters" value="Lettres en jeu"/>
+<phrase key="multiplier" value="Multiplicateur"/>
+</translation>
